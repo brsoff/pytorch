@@ -7,7 +7,7 @@ SPHINXBUILD   = sphinx-build
 SPHINXPROJ    = PyTorch
 SOURCEDIR     = source
 BUILDDIR      = build
-PYCMD         = python
+PYCMD         = python3
 
 # Put it first so that "make" without argument is like "make help".
 help:
