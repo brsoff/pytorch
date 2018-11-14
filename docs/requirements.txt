@@ -1,4 +1,4 @@
-sphinx
--e git+git://github.com/pytorch/pytorch_sphinx_theme.git#egg=pytorch_sphinx_theme
+sphinx==1.8.2
+-e git+git://github.com/shiftlab/pytorch_sphinx_theme-1.git#egg=pytorch_sphinx_theme
 sphinxcontrib.katex
 matplotlib
